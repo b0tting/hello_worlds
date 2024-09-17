@@ -1,5 +1,5 @@
 # hello_worlds
-This repository demo prints "Hello, World!" in multiple programming languages.
+This repository demo prints "Hello, World!" in multiple languages.
 
 ## Usage
 ```
