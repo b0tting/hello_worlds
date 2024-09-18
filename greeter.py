@@ -8,7 +8,7 @@ def in_dutch():
     print("Hallo wereld")
 
 def in_german():
-    print("Hallo Welt")
+    print("Hallo Welt!!")
 
 def in_php():
     print("echo(hello world);")
