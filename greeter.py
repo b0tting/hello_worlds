@@ -4,5 +4,9 @@ def in_english():
 def in_spanish():
     print("¡Hola, mundo!")
 
+def in_dutch():
+    print("Hallo wereld")
+
 in_english()
 in_spanish()
+in_dutch()
