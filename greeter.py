@@ -8,7 +8,7 @@ def in_dutch():
     print("Hallo wereld")
 
 def in_german():
-    print("Hallo Welt")
+    print("Guten tag Welt")
 
 in_english()
 in_spanish()
