@@ -16,7 +16,10 @@ def in_php():
 def in_flemish():
     print("Amaaai")
 
+def in_python():
+    print("print('hello world')")
 
+in_python()
 in_flemish()
 in_english()
 in_spanish()
