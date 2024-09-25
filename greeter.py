@@ -13,6 +13,11 @@ def in_german():
 def in_php():
     print("echo(hello world);")
 
+def in_flemish():
+    print("Amaaai")
+
+
+in_flemish()
 in_english()
 in_spanish()
 in_dutch()
